@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/fonts/stylesheet.css">
+    <link rel="stylesheet" href="/static/leaflet.css">
+
+    <script src="/static/leaflet.js"></script>  <!-- loading sync because lazy -->
+
+    {% block head_content %}{% endblock %}
+
+    <title>{% if title %}{{ title | smartypants | safe }} {% endif %}🍲 recipes.rixx.de</title>
+  </head>
+  <body>
+    {% include "_header.html" %}
+
+    <main{% block main_class %}{% endblock %}>
+      {% block content %}{% endblock %}
+    </main>
+
+    {% include "_footer.html" %}
+  </body>
+</html>

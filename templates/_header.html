@@ -1,0 +1,14 @@
+<header>
+  <div id="sidenav-left" class="sidenav">
+    <a id="site-title" href="/">🍲 Rezepte</a>
+  </div>
+  <nav id="nav-links">
+    <a href="/"{% if active == "plans" %} class="active"{% endif %}>Rezepte</a>
+      <span class="sep"> · </span>
+    <a href="/pics"{% if active == "reports" %} class="active"{% endif %}>Fotos</a>
+      <span class="sep"> · </span>
+  </nav>
+
+  <div id="sidenav-right" class="sidenav">
+  </div>
+</header>
