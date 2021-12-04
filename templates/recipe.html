@@ -1,11 +1,22 @@
 {% extends "base.html" %}
 
 {% block head_content %}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@rixxtr"/>
+<meta name="twitter:title" content="{{ recipe.title }} – Rezept auf recipes.rixx.de"/>
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://recipes.rixx.de/{{ recipe.id }}/">
+<meta property="og:title" content="{{ recipe.title }} – Rezept auf recipes.rixx.de"/>
+{% if recipe.image_paths %}
+<meta name="twitter:image" content="https://books.rixx.de/{{ recipe.id }}/square_{{ recipe.image_paths[0].name }}"/>
+<meta property="og:image" content="https://books.rixx.de/{{ recipe.id }}/square_{{ recipe.image_paths[0].name }}"/>
+{% endif %}
+
+<meta rel="canonical" content="https://recipes.rixx.de/{{ recipe.id }}/">
 {% endblock %}
 
 {% block content %}
-TODO header
-
 <article class="recipe">
     <h4 id="recipe-category">→ <a href="/c/{{ recipe.entry_type }}">{{ recipe.entry_type }}</a></h4>
     <h1 id="recipe-title">{{ recipe.title }}</h1>
@@ -29,7 +40,7 @@ TODO header
             </table>
         </div>
         <div id="instructions">
-            {{ recipe.data.instructions }}
+            {{ recipe.data.instructions | render_markdown | safe }}
         </div>
     </div>
     
