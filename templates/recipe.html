@@ -25,6 +25,16 @@
         <a href="/t/{{ tag }}">{{ tag }}</a>
         {% endfor %}
     </small>
+    {% if recipe.image_paths %}
+    <hr>
+        <div id="recipe-gallery">
+            {% for image in recipe.image_paths %}
+                <a href="/{{ recipe.id }}/{{ image.name }}">
+                    <img src="/{{ recipe.id }}/thumbnail_{{ image.name }}">
+                </a>
+            {% endfor %}
+        </div>
+    {% endif %}
     <hr>
     <div id="recipe-wrapper">
         <div id="ingredients">

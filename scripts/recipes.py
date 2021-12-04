@@ -69,14 +69,14 @@ class Recipe:
 
     @cached_property
     def image_paths(self):
-        return list(self.id.glob("*.jpg"))
+        return list(Path(self.entry_type).glob(f"{self.slug}*.jpg"))
 
     def edit(self):
         subprocess.check_call([os.environ.get("EDITOR", "vim"), self.path])
         self._load_data_from_file()
 
     def show_images(self):
-        subprocess.check_call(["feh", Path(self.entry_type) / self.slug + "*"])
+        subprocess.check_call(["feh", Path(self.entry_type) / (str(self.slug) + "*")])
 
     def download_image(self):
         url = inquirer.text(message="URL")

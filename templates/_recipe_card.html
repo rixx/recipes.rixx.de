@@ -1,9 +1,11 @@
 <div class="recipe-card">
-  {% if recipe.image_paths %}
-  TODO
-  {% else %}
-  <div class="image-placeholder"></div>
-  {% endif %}
+  <a href="/{{ recipe.id }}">
+    {% if recipe.image_paths %}
+    <img src="/{{ recipe.id }}/thumbnail_{{ recipe.image_paths[0].name }}">
+    {% else %}
+    <div class="image-placeholder"></div>
+    {% endif %}
+  </a>
   <div class="recipe-data">
     <a href="/{{ recipe.id }}">
       <h3>{{ recipe.title }}</h3>
