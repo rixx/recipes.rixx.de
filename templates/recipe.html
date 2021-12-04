@@ -42,7 +42,7 @@
                 <tbody>
                     {% for ingredient in recipe.data.ingredients %}
                     <tr>
-                        <td class="amount">{{ ingredient.amount.factor }} {{ ingredient.amount.unit }}</td>
+                        <td class="amount">{{ ingredient.amount.factor|default("", true) }} {{ ingredient.amount.unit|default("", true) }}</td>
                         <td>{{ ingredient.name }}</td>
                     </tr>
                     {% endfor %}

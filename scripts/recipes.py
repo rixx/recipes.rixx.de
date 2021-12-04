@@ -69,7 +69,7 @@ class Recipe:
 
     @cached_property
     def image_paths(self):
-        return list(Path(self.entry_type).glob(f"{self.slug}*.jpg"))
+        return sorted(list(Path(self.entry_type).glob(f"{self.slug}*.jpg")))
 
     def edit(self):
         subprocess.check_call([os.environ.get("EDITOR", "vim"), self.path])
