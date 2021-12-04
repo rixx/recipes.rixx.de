@@ -47,7 +47,10 @@ class Recipe:
         return str(self)
 
     def _load_data_from_file(self):
-        self.data = RecipeParser().parse(open(self.path).read())
+        try:
+            self.data = RecipeParser().parse(open(self.path).read())
+        except Exception as e:
+            raise Exception(f"Cannot read {self.path}: {e}")
         self.title = self.data.title
         self.entry_type = self.entry_type_from_path()
 
@@ -65,10 +68,8 @@ class Recipe:
         return Path(self.entry_type) / self.slug
 
     @cached_property
-    def cover_path(self):
-        cover_path = self.path.parent / "cover.jpg"
-        if cover_path.exists():
-            return cover_path
+    def image_paths(self):
+        return list(self.id.glob("*.jpg"))
 
     def edit(self):
         subprocess.check_call([os.environ.get("EDITOR", "vim"), self.path])
@@ -80,7 +81,6 @@ class Recipe:
     def download_image(self):
         url = inquirer.text(message="URL")
         filename, headers = urlretrieve(url)
-        breakpoint()
         extension = {"image/jpeg": "jpg", "image/png": "png", "image/gif": "gif"}[
             headers["Content-Type"]
         ]
@@ -99,11 +99,12 @@ class Recipe:
 
 def load_recipes():
     for path in Path(".").rglob("**/*.md"):
-        try:
-            yield Recipe(path=path)
-        except Exception as e:
-            print(f"Error loading {path}")
-            raise e
+        if path.parent.name != Path(".").name:
+            try:
+                yield Recipe(path=path)
+            except Exception as e:
+                print(f"Error loading {path}")
+                raise e
 
 
 def create_recipe():
