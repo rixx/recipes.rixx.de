@@ -16,8 +16,10 @@ Braucht kaum Zutaten :). Mit Notiz für Entenbraten.
 
 ---
 
-Verputzen: Federn raus, Speiseröhre ab. Arschfett ab und kleingeschnitten schon mal in den Bräter und in den Ofen.
-Talgdrüse vorsichtig abschneiden.
+Auftauen: 8h reichen bei Zimmertemperatur, idealerweise vorher 12h im Kühlschrank antauen.
+
+Verputzen: mit Handschuhen, weil Kalt und Salz keine geile Kombi sind. Federn raus, Speiseröhre ab. Arschfett ab und
+kleingeschnitten schon mal in den Bräter und in den Ofen.  Talgdrüse vorsichtig abschneiden.
 
 Waschen, innen salzen, und mit grob zerteilten Äpfeln und Zwiebeln füllen. Bauchdeckenfett nah am Rand einschneiden,
 füße durchstecken. Hintern zunähen (Zahnstocher mit Faden über Kreuz), oben zustecken. Unterstes Glied der Flügel
