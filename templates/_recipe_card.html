@@ -1,0 +1,18 @@
+<div class="recipe-card">
+  {% if recipe.image_paths %}
+  TODO
+  {% else %}
+  <div class="image-placeholder"></div>
+  {% endif %}
+  <div class="recipe-data">
+    <a href="/{{ recipe.id }}">
+      <h3>{{ recipe.title }}</h3>
+    </a>
+    <small class="tags">
+        {% for tag in recipe.data.tags %}
+        <a href="/t/{{ tag }}">{{ tag }}</a>
+        {% endfor %}
+    </small>
+    <h4 id="recipe-category">(<a href="/c/{{ recipe.entry_type }}">{{ recipe.entry_type }}</a>)</h4>
+  </div>
+</div>

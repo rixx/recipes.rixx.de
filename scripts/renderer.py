@@ -1,6 +1,7 @@
 import datetime as dt
 import pathlib
 import subprocess
+from collections import defaultdict
 from functools import partial
 from pathlib import Path
 
@@ -89,6 +90,9 @@ def build_site(**kwargs):
     )
     html_path = pathlib.Path("_html")
 
+    tags = defaultdict(list)
+    categories = defaultdict(list)
+
     print("🖋 Rendering ecipe pages")
     for recipe in all_recipes:
         render(
@@ -97,6 +101,9 @@ def build_site(**kwargs):
             recipe=recipe,
             title=recipe.title,
         )
+        categories[recipe.entry_type].append(recipe)
+        for tag in recipe.data.tags:
+            tags[tag].append(recipe)
 
     print("🔎 Rendering list pages")
     render(
@@ -104,6 +111,7 @@ def build_site(**kwargs):
         "index.html",
         title="Rezepte",
         recipes=all_recipes,
+        tags=sorted(list(tags.keys()), key=lambda x: len(tags[x]),reverse=True)
     )
     render(
         "pics.html",
@@ -111,6 +119,22 @@ def build_site(**kwargs):
         title="Galerie",
         recipes=all_recipes,
     )
+    for tag, tagged_recipes in tags.items():
+        render(
+            "tag.html",
+            f"t/{tag}/index.html",
+            title=tag,
+            tag=tag,
+            recipes=tagged_recipes,
+        )
+    for category, tagged_recipes in categories.items():
+        render(
+            "category.html",
+            f"c/{category}/index.html",
+            title=category,
+            category=category,
+            recipes=tagged_recipes,
+        )
 
     print("📷 Generating thumbnails")
     for recipe in all_recipes:

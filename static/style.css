@@ -264,6 +264,41 @@ small.tags {
   display: block;
 }
 
+.recipe-card {
+  min-height: 161px;
+  max-width: calc(100vw - 40px);
+  position: relative;
+  flex: 1 0 auto;
+  align-self: stretch;
+  background: white;
+  border: 2px solid #990000;
+  padding: 15px 5px;
+  text-decoration: none;
+  margin: 16px 8px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.24);
+  overflow: hidden;
+  display: flex;
+}
+.recipe-card:hover {
+  box-shadow: 0 1px 7px rgba(0,0,0,0.24),0 1px 5px rgba(0,0,0,0.36);
+}
+
+.recipe-card .image-placeholder, .recipe-card img {
+  margin: 8px 32px 8px 16px;
+}
+.recipe-card .image-placeholder {
+  width: 120px;
+  background-color: #ccc;
+  height: 120px;
+}
+.recipe-card img {
+}
+
+.recipe-card .recipe-data h3 {
+  font-size: 28px;
+}
+
+
 @media(max-width: 600px) {
   #ingredients {
     float: none;
