@@ -3,8 +3,8 @@ import sys
 import click
 import inquirer
 
-from .renderer import build_site
 from .recipes import change_recipe, create_recipe
+from .renderer import build_site
 
 
 @click.group(invoke_without_command=True)
