@@ -75,9 +75,6 @@ class Recipe:
         subprocess.check_call([os.environ.get("EDITOR", "vim"), self.path])
         self._load_data_from_file()
 
-    def show_images(self):
-        subprocess.check_call(["feh", Path(self.entry_type) / (str(self.slug) + "*")])
-
     def download_image(self):
         url = inquirer.text(message="URL")
         filename, headers = urlretrieve(url)
@@ -93,8 +90,6 @@ class Recipe:
             shutil.move(filename, destination)
         else:
             subprocess.check_call(["convert", filename, destination])
-
-        self.show_images()
 
 
 def load_recipes():
