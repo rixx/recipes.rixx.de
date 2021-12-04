@@ -99,7 +99,7 @@ class Recipe:
 
 def load_recipes():
     for path in Path(".").rglob("**/*.md"):
-        if path.parent.name != Path(".").name:
+        if path.parent.name != Path(".").name and path.parent.name != "scripts":
             try:
                 yield Recipe(path=path)
             except Exception as e:
