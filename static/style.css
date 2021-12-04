@@ -1,0 +1,268 @@
+/* General Style */
+html, button, input, select, textarea {
+  color: #222;
+}
+body {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  flex: 1;
+  flex-direction: column;
+  color: #222;
+  background-color: white;
+  min-height: 100vh;
+  line-height: 1.4;
+  font-size: 1.3em;
+  font-family: 'EB Garamond 12';
+  -moz-font-feature-settings: "liga", "calt", "xtex";
+  -webkit-font-feature-settings: "liga", "calt", "xtex";
+  -ms-font-feature-settings: "liga", "xtex";
+  -o-font-feature-settings: "liga", "xtex";
+  font-feature-settings: "liga", "xtex";
+}
+main {
+  z-index: 10;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+  max-width: min(1000px, 100vw);
+  min-width: min(800px, 100vw);
+  min-height: 83vh;
+  overflow-wrap: break-word;
+  background: white;
+  border-left: solid 1px #990000;
+  border-right: solid 1px #990000;
+}
+articl
+code, pre, .code.literal-block {
+  font-family: "Ubuntu Mono", "Inconsolata", monospace;
+}
+.code.literal-block, pre {
+  font-size: 0.9em;
+}
+code {
+  font-size: 0.8em;
+  background-color: #ddd;
+  padding: 0px 3px;
+  border-radius: 3px;
+}
+pre {
+  padding: 16px;
+  border-radius 6px;
+}
+article p:first-child::first-letter, .initial::first-letter, pre.code + p::first-letter {
+  font-size: 5.15em;
+  font-family: 'Kanzlei';
+  padding-right: 3px;
+  float: left;
+  color: #990000;
+  text-indent: 0;
+  line-height: .8em;
+}
+.alphabet-section .initial::first-letter {
+  float: right
+}
+article p.noinitial:first-child::first-letter, p.noinitial::first-letter,
+article p.more:first-child::first-letter, p.more::first-letter {
+  font-size: inherit !important;
+  font-family: inherit !important;
+  padding-right: inherit !important;
+  float: inherit !important;
+  color: inherit !important;
+  text-indent: inherit !important;
+
+}
+a.anchor, a.anchor:visited, a.anchor:link {
+  font-size: 16px;
+  position: absolute;
+  margin-left: 5px;
+  color: rgba(0, 0, 0, 0.3);
+}
+.anchor-target:before {
+  content: '';
+  display: block;
+  position: relative;
+  width: 0;
+  height: 50px;
+  margin-top: -50px;
+}
+h1 a, h2 a {
+  font-weight: normal;
+}
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  font-weight: normal;
+  color: #007171;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+h2 {
+  font-size: 36px;
+}
+h3 {
+  font-size: 24px;
+}
+a {
+  font-weight: bold;
+}
+a:link {
+  color: #007171;
+  text-decoration: none;
+}
+a:hover {
+  color: #1a4c3b;
+}
+a:visited {
+  color: #007171;
+}
+::selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+hr {
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+img {
+  vertical-align: middle;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 25px 0;
+  margin-bottom: 1em;
+}
+table td:last-child {
+    padding: 10px 32px 8px 15px;
+}
+table td:first-child {
+  padding: 10px 18px 8px 32px;
+}
+table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+table tbody tr:nth-of-type(odd) {
+    background-color: #f3f3f3;
+}
+
+table tbody tr:last-of-type {
+    border-bottom: 2px solid #990000;
+}
+table tbody tr:hover {
+    color: #990000;
+}
+
+#ingredients {
+  float: right;
+  max-width: 50%;
+}
+
+td {
+  padding-right: 10px;
+  padding-top:    3px;
+  padding-bottom: 3px;
+}
+
+th {
+  text-align: left;
+}
+
+footer {
+  border-top: 0.25px solid rgba(0, 0, 0, 0.14);
+  color: #999;
+  font-size: 0.75em;
+  padding-top: 18px;
+  text-align: center;
+  z-index: 20;
+  height: 36px;
+}
+
+button {
+  font-family: 'EB Garamond SC 8';
+  color: #990000;
+  background-color: white;
+  border: 1px solid #00a7a7;
+  cursor: pointer;
+  padding: 4px 12px;
+  font-size: 18px;
+  margin-left: auto;
+  display: block;
+}
+
+.muted {
+  margin-right: 8px;
+  font-weight: normal;
+  color: #777;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  position: sticky;
+  top: 0px;
+  z-index: 9000;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.24);
+  font-weight: normal;
+  height: 48px;
+}
+header a {
+  font-weight: normal;
+}
+#header-right {
+  display: flex;
+}
+#site-title {
+  align-self: center;
+  margin-left: 16px;
+  font-size: 32px;
+}
+#nav-links {
+  display: flex;
+  padding: 0;
+  justify-content: space-around;
+  font-size: 22px;
+  font-variant: bold;
+  margin: auto;
+}
+#nav-links .sep {
+  display: none;
+}
+#nav-links a {
+  margin: 8px 0;
+  transition: all 0.15s;
+  padding: 0 24px;
+  color: #222;
+  text-decoration: none;
+  font-family: 'EB Garamond SC 8';
+}
+#nav-links a.active, #nav-links a:hover {
+  text-decoration: underline;
+}
+#ingredients table td.amount {
+  margin-right: 20px;
+  text-align: right;
+}
+small.tags a {
+  color: white;
+  background: #999;
+  border: solid #999 1px;
+  border-radius: 10px;
+  padding: 2px 6px 0 6px;
+}
+small.tags {
+  margin-bottom: 12px;
+  display: block;
+}
+
+@media(max-width: 600px) {
+  #ingredients {
+    float: none;
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block head_content %}
+{% endblock %}
+
+{% block content %}
+
+<article class="recipe">
+    <h1>{{ recipe.title }}</h1>
+    <small class="tags">
+        {% for tag in recipe.data.tags %}
+        <a href="/t/{{ tag }}">{{ tag }}</a>
+        {% endfor %}
+    </small>
+    <div id="recipe-wrapper">
+        <div id="ingredients">
+            <table class="">
+                <tbody>
+                    {% for ingredient in recipe.data.ingredients %}
+                    <tr>
+                        <td class="amount">{{ ingredient.amount.factor }} {{ ingredient.amount.unit }}</td>
+                        <td>{{ ingredient.name }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div id="instructions">
+            {{ recipe.data.instructions }}
+        </div>
+    </div>
+    
+</article>
+
+{% endblock %}
