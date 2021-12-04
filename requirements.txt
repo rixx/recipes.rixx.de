@@ -1,3 +1,0 @@
-recipemd
-recipemd-extract
-recipemd-validator
