@@ -4,14 +4,17 @@
 {% endblock %}
 
 {% block content %}
+TODO header
 
 <article class="recipe">
-    <h1>{{ recipe.title }}</h1>
+    <h4 id="recipe-category">→ <a href="/c/{{ recipe.entry_type }}">{{ recipe.entry_type }}</a></h4>
+    <h1 id="recipe-title">{{ recipe.title }}</h1>
     <small class="tags">
         {% for tag in recipe.data.tags %}
         <a href="/t/{{ tag }}">{{ tag }}</a>
         {% endfor %}
     </small>
+    <hr>
     <div id="recipe-wrapper">
         <div id="ingredients">
             <table class="">

@@ -96,6 +96,9 @@ h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   margin-top: 12px;
   margin-bottom: 0;
 }
+h1#recipe-title {
+  margin-top: 0;
+}
 h2 {
   font-size: 36px;
 }
@@ -131,8 +134,8 @@ img {
 }
 
 table {
-    border-collapse: collapse;
-    margin: 25px 0;
+  border-collapse: collapse;
+  margin: 8px 0 25px 0;
   margin-bottom: 1em;
 }
 table td:last-child {
@@ -221,6 +224,7 @@ header a {
   align-self: center;
   margin-left: 16px;
   font-size: 32px;
+  position: absolute;
 }
 #nav-links {
   display: flex;
