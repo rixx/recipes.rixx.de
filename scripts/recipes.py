@@ -108,6 +108,7 @@ def create_recipe():
         message="What kind of recipe is this?",
         choices=[
             "dips",
+            "drinks",
             "einkochen",
             "gebaeck",
             "hauptspeisen",

@@ -1,5 +1,6 @@
 import datetime as dt
 import pathlib
+import random
 import subprocess
 from collections import defaultdict
 from functools import partial
@@ -141,10 +142,21 @@ def build_site(**kwargs):
             recipes=tagged_recipes,
         )
 
+    images = []
     print("📷 Generating thumbnails")
     for recipe in all_recipes:
         for image in recipe.image_paths:
             create_thumbnail(image, html_path / recipe.id)
+            images.append((image, recipe))
+
+    random.shuffle(images)
+
+    render(
+        "pics.html",
+        "pics/index.html",
+        title="Fotos",
+        images=images,
+    )
 
     rsync(source="static/", destination="_html/static/")
 
