@@ -22,3 +22,5 @@ Kugeln tunken oder bepinseln. Eine Mischung geht gut: aufspießen, dippen, dann 
 Schokolade verteilen.
 
 Frieren oder mindestens stark kühlen, gekühlt essen.
+
+Via [chefkoch](https://www.chefkoch.de/rezepte/2225301356068860/Oreo-Pralinen.html).

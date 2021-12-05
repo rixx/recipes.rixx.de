@@ -31,3 +31,5 @@ Mehl, Haferflocken, Backpulver und Zimt mischen. Die Hälfte der Mischung zur Bu
 dann den Rest der Mehlmischung.
 
 Aufs Blech löffeln, 15-20 Minuten bei 160°C backen.
+
+[Via chefkoch](https://www.chefkoch.de/rezepte/114821048497357/Apfel-Rum-Rosinen-Cookies.html?portionen=8)
