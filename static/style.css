@@ -350,3 +350,11 @@ small.tags {
     max-width: 100%;
   }
 }
+@media print {
+  header, footer, #recipe-category, small.tags, #recipe-gallery {
+    display: none
+  }
+  a::after{
+    content: " (" attr(href) ") ";
+  }
+}
