@@ -6,7 +6,7 @@
 
 ---
 
-- *100 g* Zartbitterschokolade, 70% Kakao
+- *100 g* Zartbitterschokolade
 - *2 EL* Kakaopulver
 - *250 g* Margarine
 - *125 g* Puderzucker
@@ -15,7 +15,6 @@
 - *1 TL* Vanilleextrakt
 - *1 Prise* Salz
 - *350 g* Mehl
-- Frischhaltefolie
 
 ---
 
