@@ -21,3 +21,5 @@ Die Eiweiße ganz steif schlagen. Zucker und Vanillezucker zugeben und weiter st
 Quark, Bittermandelöl und Kokosflocken unterheben und mit Hilfe von zwei Löffeln auf die Oblaten häufen.
 
 Bei 175°C Umluft ca. 10 - 12 Minuten backen.
+
+Bildquelle: [Leah](https://leah.is)
