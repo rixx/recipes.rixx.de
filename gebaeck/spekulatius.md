@@ -4,7 +4,7 @@ Besonders toll, um zum Nikolaus eigene Figuren zu formen.
 
 *weihnachten, kekse*
 
-**300 g**
+**300 g, 3 Bleche**
 
 ---
 
@@ -36,3 +36,5 @@ Figuren für 30 Minuten in den Kühlschrank oder nach draußen stellen, wenn das
 Teig mehr, for real). 15 Minuten bei 190°C backen und VOLL AUSKÜHLEN LASSEN vorm Bewegen.
 
 Aus Restteig Kugeln formen und Mandeln draufdrücken.
+
+Wenn nur Pfeffernüsse geformt werden, ergibt der Teig etwa anderthalb Bleche.

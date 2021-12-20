@@ -20,10 +20,12 @@
 
 ---
 
-Alles verkneten. Teig in Rollen formen, und bei 180°C Umluft für 10-15 Minuten backen.
+Alles verkneten. Teig in ~6 Rollen formen, und bei 180°C Umluft für 10-15 Minuten backen.
 
 Die Zutaten für den Guss mit einer Gabel verrühren. Den Guss nach dem Backen sofort dick auf die Rollen streichen.
 
 Noch warm in Stücke schneiden.
 
 Schmeckt nach ein paar Tagen in einer luftdichten Dose noch besser.
+
+Bild: [leah](https://leah.is)
