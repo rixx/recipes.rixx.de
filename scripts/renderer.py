@@ -115,7 +115,7 @@ def build_site(**kwargs):
         recipes=all_recipes,
         sorted_tags=sorted(list(tags.keys()), key=lambda x: len(tags[x]), reverse=True),
         sorted_categories=sorted(
-            list(categories.keys()), key=lambda x: len(categories[x]), reverse=True
+            list(categories.keys()), key=lambda x: sum(bool(r.image_paths) for r in categories[x]), reverse=True
         ),
         tags=tags,
     )
