@@ -1,4 +1,5 @@
 import datetime as dt
+import json
 import pathlib
 import random
 import subprocess
@@ -17,6 +18,12 @@ from . import recipes
 
 def rsync(source, destination):
     subprocess.check_call(["rsync", "--recursive", "--delete", source, destination])
+
+
+def render_string(path, string):
+    out_path = pathlib.Path("_html") / path
+    out_path.parent.mkdir(exist_ok=True, parents=True)
+    out_path.write_text(string)
 
 
 def render_markdown(text):
@@ -115,9 +122,26 @@ def build_site(**kwargs):
         recipes=all_recipes,
         sorted_tags=sorted(list(tags.keys()), key=lambda x: len(tags[x]), reverse=True),
         sorted_categories=sorted(
-            list(categories.keys()), key=lambda x: sum(bool(r.image_paths) for r in categories[x]), reverse=True
+            list(categories.keys()),
+            key=lambda x: sum(bool(r.image_paths) for r in categories[x]),
+            reverse=True,
         ),
         tags=tags,
+    )
+    all_recipes_data = [
+        {
+            "title": recipe.title,
+            "id": str(recipe.id),
+            "cover": str(recipe.image_paths[0].name) if recipe.image_paths else None,
+            "search": [recipe.title.lower(), recipe.entry_type] + recipe.data.tags,
+        }
+        for recipe in all_recipes
+    ]
+    render_string(
+        "search.json",
+        json.dumps(
+            {"recipes": all_recipes_data, "categories": list(categories.keys())}
+        ),
     )
     render(
         "pics.html",
