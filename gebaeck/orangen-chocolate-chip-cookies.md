@@ -1,8 +1,8 @@
-# Orangen-Schokoladen-Plätzchen
+# Orangen-Chocolate-Chip-Cookies
 
-*kekse, weihnachten*
+*kekse*
 
-**1 Portionen**
+**1 Portion**
 
 ---
 
@@ -21,8 +21,7 @@
 Das Mehl mit Speisestärke und Backpulver mischen. Zucker, Vanillezucker, Orangenschale, Ei und Butter hinzufügen.
 Gut durchkneten. Die Schokolade in kleine Stücke schneiden, verkneten.
 
-Etwa 3 cm dicke Rollen formen, breit drücken, so dass die Teigstreifen etwa 5 cm breit und gut 1 cm hoch sind, kalt
-stellen.
+Danach zwei Möglichkeiten: Kugeln formen, etwas platt drücken, und vielleicht kurz kalt stellen, oder den Teig lange
+kalt stellen, und dann aus Rollen Scheiben schneiden.
 
-Die Teigstreifen mit einem scharfen Messer in knapp 1/2 cm dicke Scheiben schneiden, diese auf ein Backblech legen und
-im vorgeheizten Ofen bei 180°C (Ober-/Unterhitze) ca. 10 Minuten backen.
+In jedem Fall bei 180°C (Ober-/Unterhitze) ca. 10 Minuten backen.
