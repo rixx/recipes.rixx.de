@@ -26,7 +26,7 @@ Stunden im Kühlschrank kaltstellen.
 
 Rollen von ca. 5cm Durchmesser formen und in 2cm breite Scheben schneiden. Etwas platt drücken.
 
-Orangen heiß abwaschen, und in feine Scheiben schneiden. Die Schale abziehen. Auf die Kekse legen und mit etwas Zucker
-bestreuen.
+Orangen heiß abwaschen, schälen, und quer zur "Scheibenrichtung" in möglichst dünne Scheiben schneiden. Auf die Kekse
+legen und mit etwas Zucker bestreuen.
 
 Bei 175° Ober-/Unterhitze für 12-15 Minuten auf mittlerer Schiene goldbraun backen.
