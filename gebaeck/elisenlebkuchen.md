@@ -21,10 +21,12 @@
 
 ---
 
-Orangeat und Zitronat im Mixer etwas zerkleinern.
+Orangeat und Zitronat im Mixer etwas zerkleinern – etwas gemahlene Nüsse dazugeben, damit es nicht ganz so schrecklich
+klebt.
 
-Eier, Zucker und Honig schaumig schlagen. Die restlichen Zutaten untermischen. Den Teig flach auf die Oblaten
-streichen (ergibt ca. 30 St./90 mm oder ca. 40 St./70 mm), oder eine fancy Glocke nehmen.
+Eiweiß steif schlagen und kalt stellen. Eigelb, Zucker und Honig schaumig schlagen. Die restlichen Zutaten unterheben,
+ganz zum Schluss das Eiweiß. Den Teig flach auf die Oblaten streichen (ergibt ca. 30 St./90 mm oder ca. 40 St./70 mm),
+oder eine fancy Glocke nehmen.
 
 Bei 150° Ober- und Unterhitze für 20 Minuten backen.
 
