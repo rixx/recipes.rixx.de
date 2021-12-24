@@ -406,6 +406,18 @@ small.tags {
     float: none;
     max-width: 100%;
   }
+  #nav-links {
+    margin-left: 0;
+  }
+  #site-title {
+    display: none;
+  }
+  main {
+    padding: 0;
+  }
+  main > * {
+    padding-left: 8px;
+  }
 }
 @media print {
   header, footer, #recipe-category, small.tags, #recipe-gallery {
