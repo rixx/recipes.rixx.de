@@ -15,7 +15,6 @@
 - *150 g* Walnüsse (gemahlen)
 - *1 Pkg.* Vanillezucker 
 - *50 ml* Rum (weiß)
-- *50 ml* Rum (weiß)
 
 ---
 
