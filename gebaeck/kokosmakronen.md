@@ -2,11 +2,11 @@
 
 *kekse, weihnachten*
 
-**65 Makronen**
+**24 (?) Makronen**
 
 ---
 
-- *200 g* Kokosraspel
+- *300 g* Kokosraspel
 - *65 g* Quark
 - *150 g* Zucker
 - *4*  Eiweiß
