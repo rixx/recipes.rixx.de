@@ -1,4 +1,4 @@
-# Wildkrauts Osternester aus Mürbeteig
+# Osternester
 
 *ostern, kekse*
 
