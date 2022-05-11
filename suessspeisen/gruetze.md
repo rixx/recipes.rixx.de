@@ -1,4 +1,4 @@
-# Grütze
+# Grütze (Pudding-Variante)
 
 Aus beliebigen Früchten
 
@@ -17,8 +17,13 @@ Aus beliebigen Früchten
 
 ---
 
-Früchte und Zucker mit 300 ml Wasser kochen.
+*Zuckerdosierung: das Rezept ist auf Rhabarber abgestimmt. Weniger saure Früchte werden etwas weniger Zucker brauchen.*
 
-Pudding mit Milch anrühren, dazutun, aufkochen.
+Früchte und Zucker mit 300 ml Wasser kochen bis die Früchte hinreichend zerkocht sind. Optional Zimt/andere Gewürze und
+Zitronenschale dazugeben.
+
+Pudding mit Milch anrühren, dazutun, SOFORT UMRÜHREN, aufkochen.
 
 Auskühlen lassen (oder nicht), mit Milch oder Vanillesauce essen.
+
+4 Portionen in den IKEA-Schälchen, in kleineren Kompottschälchen sicher locker 6-8.
