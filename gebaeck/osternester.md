@@ -20,8 +20,8 @@
 
 Mehl, Zucker, Eier, Butter und eine Prise Salz zu einem glatten Teig verkneten, ca. 1 Stunde kalt stellen.
 
-Dünn ausrollen (5mm oder weniger) und 10 cm große Kreise ausstechen. In Muffinformen legen und unten gut andrücken.
-Bei 180 Grad 10-15 Minuten backen. 
+Dünn ausrollen (5mm oder weniger) und 10 cm große Kreise ausstechen. Muffinform(en) umdrehen, und die Kreise darüber
+stülpen (andersrum läuft der Teig innen runter). Bei 180 Grad 10-15 Minuten backen. 
 
 Kokosflocken mit wenig Wasser und viel grüner Lebensmittelfarbe einfärben.
 

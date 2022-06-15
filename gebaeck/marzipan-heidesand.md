@@ -7,8 +7,8 @@
 ---
 
 - *200 g* Butter
-- *80 g* Puderzucker
-- *50 g* Marzipanrohmasse
+- *50 g* Puderzucker
+- *80 g* Marzipanrohmasse
 - *1*  Vanilleschote
 - *250 g* Mehl
 - *1* Ei
