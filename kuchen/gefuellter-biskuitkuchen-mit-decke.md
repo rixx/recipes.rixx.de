@@ -16,6 +16,7 @@
 - Rum-Aroma
 - Marmelade oder Früchte (Rhabarber geht gut)
 - *200 g* Kuvertüre
+- *100 ml* Sahne
 - Marzipandecke
 
 ---
@@ -35,4 +36,6 @@ einen nassen kalten Lappen drauflegen.
 
 Wenn der Kuchen komplett ausgekühlt ist (6h oder nächster Tag) horizontal zerschneiden, ggf ein Brett o.ä. als Führung
 danebenlegen. Auf den unteren Teil Marmelade oder Grütze streichen, die obere Hälfte auflegen. Dann auf die obere Hälfte
-ganz dünn ein bisschen weitere Marmelade pinseln. Marzipandecke auflegen, dann mit Kuvertüre überziehen.
+ganz dünn ein bisschen weitere Marmelade pinseln. Marzipandecke auflegen.
+
+Kuvertüre schmelzen und vorsichtig mit der Sahne mischen. Damit die Marzipandecke überziehen.
