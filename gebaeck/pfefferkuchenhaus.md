@@ -19,13 +19,6 @@
 - *300 g* Sirup
 - *2* Eier
 
-## Für die Zuckerpaste
-
-- *1* Eiweiß
-- *250 g* Puderzucker
-- *100 g* Mandeln
-- Zitronensaft
-
 ---
 
 Mehl, Natron, Salz und Gewürze mischen. Das Fett in einem Topf bei schwacher Hitze schmelzen, dann Zucker und Sirup
@@ -36,4 +29,11 @@ oder verarbeiten.
 
 Backzeit: 10-14 Minuten bei 180°C, kleinere Stücke kürzer.
 
-Zuckerpaste bald nach dem Anrühren verarbeiten.
+## Für die Zuckerpaste
+
+- *1* Eiweiß
+- *250 g* Puderzucker
+- *100 g* Mandeln
+- Zitronensaft
+
+Lässt sich am leichtesten direkt mit den Fingern aufstreichen.
