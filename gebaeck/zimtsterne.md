@@ -19,6 +19,8 @@
 
 Mandeln, Puderzucker und Zimt mischen. 2 Eiweiß und Mandellikör (oder Bittermandelaroma) zugeben. Zu einem glatten Teig kneten. 
 
+(Pro-tipp: wer keine Verwendung für das Eigelb hat, kann es auch mit reinkneten, tut auch nicht weh.)
+
 Teig ca. 1 cm dick ausrollen. Sterne ausstechen. Ausstecher zwischendurch immer wieder in Puderzucker tauchen. 
 
 1 Eiweiß sehr steif schlagen. Puderzucker nach und nach zugeben. Sterne bepinseln.
