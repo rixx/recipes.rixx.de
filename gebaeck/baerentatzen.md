@@ -21,10 +21,12 @@ Erst steinhart, aber dann super lecker.
 
 Eiweiß sehr steif schlagen, Puderzucker unterrühren, etwas Salz dazugeben und alle anderen Zutaten dazugeben.
 
+Mit etwas Mehl abkneten und kaltstellen.
+
 Kleine Kugeln rollen und mit der Bärentatzenform mit Mehl (oder wenn glutenfrei, mit gemahlenen Haselnüssen oder Zucker) formen.
 
 Über Nacht auf dem Blech trocknen lassen.
 
 20-40 Minuten auf mittlerer Schiene bei 150°C backen.
 
-2 Wochen in einer Dose zum weich werden lassen lagern.
+2 Wochen in einer Dose zum weich werden lagern – nur 1 Woche, wenn man Brot dazutut und es alle paar Tage austauscht.
