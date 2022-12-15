@@ -2,7 +2,7 @@
 
 *kekse, weihnchten*
 
-**100 Stück**
+**80–100 Stück**
 
 ---
 
@@ -22,8 +22,8 @@ in Rollen rollen und kaltstellen.
 Die Rollen in kleine, gleichmäßige Stücke schneiden und zu Kipferl formen. Auf das Backblech legen und
 kaltstellen.
 
-Bei 180° 10-12 Minuten hell backen, Noch heiß im Vanille-Puderzucker wenden.
+Bei 180° 10-12 Minuten hell backen, Noch heiß im Vanille-Puderzucker wenden. Alternativ direkt nach Entnahme Puderzucker
+drüber sieben, und dann nach ein paar Minuten noch einmal – so bildet sich eine weiche Schicht, aber auch noch
+sichtbarer Zucker, und die Kekse brechen nicht so leicht.
 
-Ergibt je nach Größe 80-120 Stück.
-
-Bildquelle: [Leah](https://leah.is)
+Ergibt je nach Größe 80-100 Stück.
