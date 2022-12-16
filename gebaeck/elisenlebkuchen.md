@@ -8,7 +8,7 @@
 
 - *6*  Eier
 - *180 g* brauner Zucker
-- *2 EL* Honig
+- *2 EL* Honig (40-45 *g*)
 - *2 TL* Zimt
 - *1 TL* Lebkuchengewürz
 - *1 Prise* Salz
