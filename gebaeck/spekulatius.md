@@ -4,7 +4,7 @@ Besonders toll, um zum Nikolaus eigene Figuren zu formen.
 
 *weihnachten, kekse*
 
-**300 g, 3 Bleche**
+**3 Bleche, 3-4 Figuren, 35 Pfeffernüsse**
 
 ---
 
