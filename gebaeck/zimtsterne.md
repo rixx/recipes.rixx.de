@@ -2,7 +2,7 @@
 
 *kekse, weihnachten*
 
-**1 Portion**
+**100-120 Stück**
 
 ---
 
@@ -23,8 +23,7 @@ Mandeln, Puderzucker und Zimt mischen. 2 Eiweiß und Mandellikör (oder Bitterma
 
 Teig ca. 1 cm dick ausrollen. Sterne ausstechen. Ausstecher zwischendurch immer wieder in Puderzucker tauchen. 
 
-1 Eiweiß sehr steif schlagen. Puderzucker nach und nach zugeben. Sterne bepinseln.
+1 Eiweiß sehr steif schlagen. Puderzucker nach und nach zugeben. Ggf noch einen kleinen Schluck Rum oder andere
+Flüssigkeit für die richtige Konsistenz (läuft nicht runter, aber lässt sich gut verteilen).
 
-Auf unterster Schiene bei 150° 10-15 Minuten backen.
-
-Bildquelle: [Leah](https://leah.is)
+Sterne bepinseln. Auf unterster Schiene bei 150° 10-15 Minuten backen.
