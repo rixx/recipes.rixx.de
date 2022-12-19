@@ -2,7 +2,7 @@
 
 *kekse, weihnachten*
 
-**24 (?) Makronen**
+**50 Makronen (5er Oblaten)**
 
 ---
 
@@ -12,7 +12,7 @@
 - *4*  Eiweiß
 - *4 Tropfen* Bittermandelaroma
 - *1 Pck.* Vanillezucker
-- Oblaten
+- Oblaten (5er oder 7er)
 
 ---
 
