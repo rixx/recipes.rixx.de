@@ -23,7 +23,7 @@ Eiweiß sehr steif schlagen, Puderzucker unterrühren, etwas Salz dazugeben und 
 
 Mit etwas Mehl abkneten und kaltstellen.
 
-Kleine Kugeln rollen und mit der Bärentatzenform mit Mehl (oder wenn glutenfrei, mit gemahlenen Haselnüssen oder Zimt+Zucker) formen.
+Kleine Kugeln formen. In Zimt+Zucker wälzen und dann mit der Bärentatzenform formen.
 
 (Über Nacht auf dem Blech trocknen lassen.)
 
