@@ -4,32 +4,35 @@ Für Kinder ist der Rum natürlich optional, mit mehr Zitronensaft ersetzen.
 
 *kekse, winter, vegetarisch*
 
-**2 Bleche**
+**3 Bleche**
 
 ---
 
-- *1 Tasse* Rosinen
-- *1* Apfel
-- *2 Tassen* Mehl
-- *1 Tasse* Haferflocken
-- Rum
-- *2 TL* Zitronensaft
+- *400 g* Mehl
+- *150 g* Haferflocken
+- *300 g* Zucker, am besten Rohrzucker
+- *1 Tüte* Vanillezucker
 - *250 g* Butter
-- *1 Tasse* Rohrzucker
+- *1* Ei
 - *1 TL* Backpulver
 - *1 TL* Zimt
-- *1* Ei
-- *1 Tüte* Vanillezucker
+- *2 TL* Zitronensaft (oder einfach Wasser)
+- *1* Apfel
+- *1 Packung* Rosinen (optional)
+- Rum
+- *1 Packung* Schokostücken (optional)
 
 ---
 
-Apfel würfeln, mit Rum, Zitronensaft und Rosinen mindestens 15 Minuten ziehen lassen.
+Anmerkung: Ich mache das Rezept gerne mit Rosinen **und** Schokostückchen, aber es reicht auch eines davon.
 
-Butter und Zucker 2 Minuten cremig schlagen, dann Ei und Vanillezucker dazu.
+Apfel würfeln, mit Rum, Zitronensaft und Rosinen mindestens 15 Minuten ziehen lassen. Oder natürlich direkt Rumrosinen
+nehmen!
 
-Mehl, Haferflocken, Backpulver und Zimt mischen. Die Hälfte der Mischung zur Butter geben, dann den Rum-Schlabber dazu,
-dann den Rest der Mehlmischung.
+Wenn die Kekse mehr verlaufen sollen, die Butter in der Mikrowelle anschmelzen. Mit Zucker cremig schlagen, dann Ei und
+Vanillezucker dazu.
 
-Aufs Blech löffeln, 15-20 Minuten bei 160°C backen.
+Mehl, Haferflocken, Backpulver und Zimt mischen. Die Hälfte der Mischung zur Butter geben, dann den Rum-Schlabber und
+die Schokostückchen dazu, dann den Rest der Mehlmischung.
 
-[Via chefkoch](https://www.chefkoch.de/rezepte/114821048497357/Apfel-Rum-Rosinen-Cookies.html?portionen=8)
+Aufs Blech löffeln, 15-20 Minuten bei 160°C (Umluft) backen.
