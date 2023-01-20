@@ -2,7 +2,7 @@
 
 Einfacher Rührteig
 
-*schoko, kuchen, vegetarisch*
+*schoko, kuchen*
 
 **1 Kuchen**
 

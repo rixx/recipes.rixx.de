@@ -1,6 +1,6 @@
 # Schokokuchen mit Kirschen und Pudding
 
-*kuchen, schoko, vegetarisch*
+*kuchen, schoko*
 
 **1 Kuchen**
 

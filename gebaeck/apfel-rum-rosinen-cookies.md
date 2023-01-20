@@ -2,7 +2,7 @@
 
 Für Kinder ist der Rum natürlich optional, mit mehr Zitronensaft ersetzen.
 
-*kekse, winter, vegetarisch*
+*kekse, winter*
 
 **3 Bleche**
 

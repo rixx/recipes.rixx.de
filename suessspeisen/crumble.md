@@ -2,7 +2,7 @@
 
 Mit allen Arten von Früchten
 
-*obst, sommer, vegetarisch*
+*obst, sommer*
 
 **4 Portionen, 1kg**
 

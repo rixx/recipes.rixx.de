@@ -1,6 +1,6 @@
 # Orangen-Schoko-Plätzchen
 
-*vegan, vegetarisch, kekse*
+*vegan, kekse*
 
 **60 Stück**
 

@@ -2,7 +2,7 @@
 
 Kuchen ohne backen, mit beliebigem Obst.
 
-*kuchen, kalt, ohne backen, sommer, vegetarisch*
+*kuchen, kalt, ohne backen, sommer*
 
 **1 Kuchen**
 

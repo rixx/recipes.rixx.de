@@ -2,7 +2,7 @@
 
 Der Klassiker mit Rübensirup.
 
-*weihnachten, vegetarisch*
+*weihnachten, kekse*
 
 **1 kg**
 

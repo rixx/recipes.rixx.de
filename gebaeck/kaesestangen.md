@@ -2,7 +2,7 @@
 
 Toll zum Mitbringen zu Partys.
 
-*party, herzhaft, vegetarisch*
+*party, herzhaft*
 
 **1 Packung**
 

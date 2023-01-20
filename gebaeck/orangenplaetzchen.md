@@ -2,7 +2,7 @@
 
 Geht auch mit Zitronen
 
-*obst, vegetarisch, kekse*
+*obst, kekse*
 
 **36 Stück**
 

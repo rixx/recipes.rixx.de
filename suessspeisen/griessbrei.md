@@ -1,6 +1,6 @@
 # Grießbrei
 
-*comfort food, vegetarisch*
+*comfort food, nachtisch*
 
 **4 Portionen, 1 Liter**
 

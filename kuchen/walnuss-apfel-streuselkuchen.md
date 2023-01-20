@@ -1,6 +1,6 @@
 # Walnuss-Apfel-Streuselkuchen
 
-*Vegetarisch, Winter, Kuchen, Herbst*
+*winter, kuchen, herbst*
 
 **26er Springform**
 

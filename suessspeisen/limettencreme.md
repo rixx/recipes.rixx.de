@@ -2,7 +2,7 @@
 
 Gut als Nachtisch.
 
-*nachtisch, fruchtig, kalt, vegetarisch, glutenfrei*
+*nachtisch, fruchtig, kalt, glutenfrei*
 
 **6 Portionen**
 

@@ -2,7 +2,7 @@
 
 Aus beliebigen Früchten
 
-*nachspeise, vegetarisch, kalt*
+*nachspeise, kalt*
 
 **4 Portionen**
 

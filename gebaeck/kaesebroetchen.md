@@ -2,7 +2,7 @@
 
 <3
 
-*herzhaft, vegetarisch, brötchen*
+*herzhaft, brötchen*
 
 **6-8 Stück**
 

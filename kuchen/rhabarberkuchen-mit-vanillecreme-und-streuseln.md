@@ -2,7 +2,7 @@
 
 Auch mit anderem Obst!
 
-*obst, kuchen, obstkuchen, vegetarisch*
+*obst, kuchen*
 
 **1 Kuchen**
 

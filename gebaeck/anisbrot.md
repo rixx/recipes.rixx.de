@@ -2,7 +2,7 @@
 
 Traditionelles Weihnachtsgebäck.
 
-*weihnachten, vegetarisch*
+*weihnachten, kekse*
 
 **250 g**
 

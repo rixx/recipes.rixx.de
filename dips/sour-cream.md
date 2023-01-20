@@ -2,7 +2,7 @@
 
 Mengen alle grob gleich viel.
 
-*dip, vegetarisch, glutenfrei, lowcarb*
+*dip, vegetarisch, glutenfrei, lowcarb, party*
 
 **1 Portion**
 

@@ -2,7 +2,7 @@
 
 Zwei Brote, toll zum Grillen.
 
-*grillen, party, vegetarisch, vegan*
+*grillen, party, vegan*
 
 **2 Brote**
 

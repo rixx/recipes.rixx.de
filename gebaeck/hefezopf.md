@@ -1,6 +1,6 @@
 # Hefezopf
 
-*ostern, frühling, brot, vegetarisch*
+*ostern, frühling, brot*
 
 **1 Brot**
 

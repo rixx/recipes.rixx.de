@@ -2,7 +2,7 @@
 
 Starker Sirup.
 
-*einkochen, sirup, holunder, sommer, vegetarisch, vegan, glutenfrei*
+*einkochen, sirup, holunder, sommer, vegan, glutenfrei*
 
 **2 Liter**
 

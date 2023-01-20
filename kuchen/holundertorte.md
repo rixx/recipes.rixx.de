@@ -2,7 +2,7 @@
 
 Kuchen ohne backen: Löffelbiskuitkuchen aus Holundercreme.
 
-*kuchen, kein-backen, holunder, sommer, vegetarisch*
+*kuchen, kein-backen, holunder, sommer*
 
 **1 Kuchen**
 

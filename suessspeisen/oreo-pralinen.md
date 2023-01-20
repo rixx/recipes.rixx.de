@@ -2,7 +2,7 @@
 
 Extrem geil, nur stark gekühlt essbar.
 
-*pralinen, nachspeise, vegetarisch*
+*pralinen, nachspeise*
 
 **12 Pralinen**
 
