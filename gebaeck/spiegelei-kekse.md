@@ -4,7 +4,7 @@ Aus Zitronen-Mürbeteig.
 
 *kekse, ostern*
 
-**3 Bleche**
+**35 Doppelkekse**
 
 ---
 

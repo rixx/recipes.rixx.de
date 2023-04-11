@@ -2,7 +2,7 @@
 
 *ostern, kekse*
 
-**1 Portion**
+**30 Stück**
 
 ---
 
