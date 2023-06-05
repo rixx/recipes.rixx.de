@@ -15,6 +15,7 @@ setup(
         "inquirer==2.6.*",
         "jinja2==2.11.*",
         "markdown==3.1.*",
+        "markupsafe==2.0.1",
         "networkx==2.5.*",
         "pillow==7.1.*",
         "python-dateutil",
