@@ -29,4 +29,4 @@ Prise Salz gut unterkneten. Falls gewünscht, Nüsse dazu mischen.
 Wasser weichkochen und pürieren, dann etwas Zitronensaft oder Zitronensäure dazu. Vor der Browniemasse auftragen.
 
 Browniemasse auf den vorgebackenen Teig streichen, und bei 190°C backen, bis fertig (oben fest, innen weich, Ränder
-leicht abgelöst), ca. 23-28 Minuten. Gut auskühlen lassen.
+leicht abgelöst), ca. 30 Minuten. Gut auskühlen lassen.
