@@ -107,6 +107,7 @@ def create_recipe():
     entry_type = inquirer.list_input(
         message="What kind of recipe is this?",
         choices=[
+            "ausprobieren",
             "dips",
             "drinks",
             "einkochen",
