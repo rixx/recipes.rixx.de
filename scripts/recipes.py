@@ -103,7 +103,7 @@ def load_recipes():
 
 
 def create_recipe():
-    title = (inquirer.text("title", message="What’s the title of the recipe?"),)
+    title = inquirer.text(message="What’s the title of the recipe?")
     entry_type = inquirer.list_input(
         message="What kind of recipe is this?",
         choices=[
