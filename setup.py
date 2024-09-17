@@ -24,9 +24,9 @@ setup(
         "smartypants",
         "unidecode",
         "recipemd",
-        "recipemd-extract",
     ],
     dependency_links=[
-        "git+git://github.com/gindex/recipemd-validator",
+        "git+https://github.com/gindex/recipemd-validator",
+        "git+https://github.com/rixx/recipemd-extract@simplify",
     ],
 )
