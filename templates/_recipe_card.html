@@ -10,10 +10,12 @@
     <a href="/{{ recipe.id }}">
       <h3>{{ recipe.title }}</h3>
     </a>
+    {% if recipe.data.tags %}
     <small class="tags">
         {% for tag in recipe.data.tags %}
-        <a href="/t/{{ tag }}">{{ tag }}</a>
+        <a href="/t/{{ tag }}">#{{ tag }}</a>
         {% endfor %}
     </small>
+    {% endif %}
   </div>
 </div>

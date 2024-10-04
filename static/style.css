@@ -266,13 +266,18 @@ header a {
 }
 small.tags a {
   color: white;
-  background: #999;
-  border: solid #999 1px;
-  border-radius: 10px;
-  padding: 2px 6px 0 6px;
 }
+
 small.tags {
   margin-bottom: 12px;
+  position: absolute;
+  top: 12px;
+  width: 176px;
+  padding: 8px 12px;
+  background-color: rgba(0,0,0,0.5);
+  display: none;
+}
+.recipe-card:hover small.tags {
   display: block;
 }
 

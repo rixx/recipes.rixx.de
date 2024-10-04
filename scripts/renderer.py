@@ -128,21 +128,6 @@ def build_site(**kwargs):
         ),
         tags=tags,
     )
-    all_recipes_data = [
-        {
-            "title": recipe.title,
-            "id": str(recipe.id),
-            "cover": str(recipe.image_paths[0].name) if recipe.image_paths else None,
-            "search": [recipe.title.lower(), recipe.entry_type] + recipe.data.tags,
-        }
-        for recipe in all_recipes
-    ]
-    render_string(
-        "search.json",
-        json.dumps(
-            {"recipes": all_recipes_data, "categories": list(categories.keys())}
-        ),
-    )
     render(
         "pics.html",
         "pics/index.html",
