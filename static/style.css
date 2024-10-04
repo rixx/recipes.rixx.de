@@ -28,7 +28,7 @@ main {
   padding: 1em;
   max-width: min(1000px, 100vw);
   min-width: min(800px, 100vw);
-  min-height: 83vh;
+  min-height: calc(100vh - 142px);
   overflow-wrap: break-word;
   background: white;
   border-left: solid 1px #990000;
@@ -193,7 +193,7 @@ footer {
   padding-top: 18px;
   text-align: center;
   z-index: 20;
-  height: 36px;
+  height: 26px;
 }
 
 button {
