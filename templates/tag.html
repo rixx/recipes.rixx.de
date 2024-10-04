@@ -4,8 +4,10 @@
 
 <h1>Tagged: {{ tag }}</h1>
 
-{% for recipe in recipes %}
-    {% include "_recipe_card.html" %}
-{% endfor %}
+<div class="recipe-list">
+    {% for recipe in recipes %}
+        {% include "_recipe_card.html" %}
+    {% endfor %}
+</div>
 
 {% endblock %}

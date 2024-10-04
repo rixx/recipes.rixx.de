@@ -9,7 +9,7 @@
                 <small>({{ categories[category]|length }} Rezepte)</small></a>
         </h2>
         <div class="recipe-carousel">
-            {% for recipe in categories[category][:10] %}
+            {% for recipe in categories[category] %}
                 {% include "_recipe_card.html" %}
             {% endfor %}
         </div>

@@ -373,6 +373,11 @@ small.tags {
   border-radius: 4px;
 }
 
+.recipe-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .hidden {
   display: none;
 }
