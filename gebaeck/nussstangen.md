@@ -1,4 +1,4 @@
-# Blätterteig - Nussstangerl
+# Nussstangen
 
 *party*
 
