@@ -33,9 +33,21 @@ main {
   background: white;
   border-left: solid 1px #990000;
   border-right: solid 1px #990000;
+  &.wide {
+    width: 100%;
+    padding: 0 2rem;
+    border-left: none;
+    border-right: none;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    &> * {
+      padding-left: 16px;
+      padding-right: 16px;
+    }
+  }
 }
-articl
-code, pre, .code.literal-block {
+article code, pre, .code.literal-block {
   font-family: "Ubuntu Mono", "Inconsolata", monospace;
 }
 .code.literal-block, pre {
@@ -264,40 +276,51 @@ small.tags {
   display: block;
 }
 
+.recipe-carousel {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  margin-bottom: 16px;
+  width: calc(100% - 56px);
+  margin: 0;
+  padding: 0;
+}
+
 .recipe-card {
-  min-height: 161px;
-  max-width: calc(100vw - 40px);
+  display: flex;
+  flex-direction: column;
   position: relative;
+  width: 200px;
+  max-width: 200px;
   flex: 1 0 auto;
   align-self: stretch;
   background: white;
   border: 2px solid #990000;
-  padding: 15px 5px;
+  padding: 12px;
+  border-radius: 4px;
   text-decoration: none;
   margin: 16px 8px;
   box-shadow: 0 1px 5px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.24);
   overflow: hidden;
-  display: flex;
-}
-.recipe-card:hover {
-  box-shadow: 0 1px 7px rgba(0,0,0,0.24),0 1px 5px rgba(0,0,0,0.36);
-}
-
-.recipe-card .image-placeholder, .recipe-card img {
-  margin: 8px 32px 8px 16px;
-  box-shadow: 0 1px 5px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.24);
-  width: 145px;
-  height: 145px;
-}
-.recipe-card .image-placeholder {
-  background-color: #ccc;
-}
-.recipe-card img {
-  object-fit: cover;
-}
-
-.recipe-card .recipe-data h3 {
-  font-size: 28px;
+  &:hover {
+    box-shadow: 0 1px 7px rgba(0,0,0,0.24),0 1px 5px rgba(0,0,0,0.36);
+  }
+  .image-placeholder, img {
+    box-shadow: 0 1px 5px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.24);
+    border-radius: 4px;
+    width: 200px;
+    height: 200px;
+  }
+  .image-placeholder {
+    background-color: #ccc;
+  }
+  img {
+    object-fit: cover;
+  }
+  .recipe-data h3 {
+    font-size: 22px;
+    margin-top: 4px;
+  }
 }
 
 #recipe-gallery {

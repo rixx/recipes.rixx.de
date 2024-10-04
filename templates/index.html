@@ -1,14 +1,18 @@
 {% extends "base.html" %}
 
+{% block main_class %} class="wide"{% endblock %}
+
 {% block content %}
 
-{% for category in sorted_categories %}
-    <h2><a href="/c/{{ category }}">{{ category }}
-            <small>({{ categories[category]|length }} Rezepte)</small></a>
-    </h2>
-    {% for recipe in categories[category][:3] %}
-        {% include "_recipe_card.html" %}
+    {% for category in sorted_categories %}
+        <h2><a href="/c/{{ category }}">{{ category.capitalize() }}
+                <small>({{ categories[category]|length }} Rezepte)</small></a>
+        </h2>
+        <div class="recipe-carousel">
+            {% for recipe in categories[category][:10] %}
+                {% include "_recipe_card.html" %}
+            {% endfor %}
+        </div>
     {% endfor %}
-{% endfor %}
 
 {% endblock %}

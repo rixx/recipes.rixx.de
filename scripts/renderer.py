@@ -101,7 +101,7 @@ def build_site(**kwargs):
     tags = defaultdict(list)
     categories = defaultdict(list)
 
-    print("🖋 Rendering ecipe pages")
+    print("🖋 Rendering recipe pages")
     for recipe in all_recipes:
         render(
             "recipe.html",
