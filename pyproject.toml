@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=45", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "recipes-rixx-de"
+version = "0.1"
+authors = [
+    {name = "Tobias Kunze", email = "r@rixx.de"},
+]
+dependencies = [
+    "click",
+    "inquirer~=2.6.0",
+    "jinja2~=2.11.0",
+    "markdown~=3.1.0",
+    "markupsafe==2.0.1",
+    "networkx~=2.5.0",
+    "pillow~=11.0.0",
+    "python-dateutil",
+    "python-frontmatter~=0.5.0",
+    "requests",
+    "smartypants",
+    "unidecode",
+    "recipemd",
+    "recipemd-validator @ git+https://github.com/gindex/recipemd-validator",
+    "recipemd-extract @ git+https://github.com/rixx/recipemd-extract@simplify",
+]
+
+[project.scripts]
+recipes = "scripts.cli:cli"
+
+[tool.setuptools.packages.find]
+include = ["scripts"]
+
+[project.urls]
+Homepage = "https://github.com/rixx/recipes.rixx.de"
