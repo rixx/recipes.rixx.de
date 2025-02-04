@@ -2,6 +2,7 @@ from setuptools import setup
 
 setup(
     name="recipes-rixx-de",
+    version="0.1",
     author="Tobias Kunze",
     author_email="r@rixx.de",
     url="https://github.com/rixx/recipes.rixx.de",
