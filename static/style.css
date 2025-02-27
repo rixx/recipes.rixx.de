@@ -263,6 +263,7 @@ header a {
 #ingredients table td.amount {
   margin-right: 20px;
   text-align: right;
+  white-space: nowrap;
 }
 small.tags a {
   color: white;
