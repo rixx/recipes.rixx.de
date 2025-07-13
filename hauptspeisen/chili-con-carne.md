@@ -13,7 +13,6 @@
 - *500 g* Kidneybohnen
 - *2* Paprika
 - *2* Chilischoten
-- *250 g* Erbsen
 - *250 g* Mais
 - Salz
 - Pfeffer
@@ -21,9 +20,10 @@
 - Paprikapulver scharf
 - Paprikapulver süß
 - Kreuzkümmel
-- Brühe
 - Koriander
 - Oregano
+- optional: *1 TL* Kakao
+- optional: Brühe
 
 ---
 
@@ -37,7 +37,7 @@ Tomaten zum ablöschen, dann mit Chilischoten 20-30 Minuten kochen
 
 Paprika dazu und 10 Minuten kochen
 
-Bohnen, Mais, Erbsen dazu und 10 Minuten kochen
+Bohnen, Mais, Erbsen dazu und 10 Minuten kochen, ggf Brühe dazu für Konsistenz
 
 abschmecken, ziehen lassen für mehr geil
 
