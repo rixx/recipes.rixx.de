@@ -22,7 +22,7 @@
 - Kreuzkümmel
 - Koriander
 - Oregano
-- optional: *1 TL* Kakao
+- *1 TL* Kakao
 - optional: Brühe
 
 ---
