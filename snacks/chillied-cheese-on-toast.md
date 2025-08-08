@@ -1,4 +1,4 @@
-# Überbackenes Chiabatta
+# Überbackenes Ciabatta
 
 *fingerfood*
 
