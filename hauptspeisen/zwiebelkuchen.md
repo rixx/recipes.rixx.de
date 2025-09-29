@@ -26,13 +26,11 @@ in der Schüssel solange gehen lassen, wie Zeit ist.
 
 Zwiebeln in Streifen schneiden (halbieren oder vierteln). Speck würfeln.
 
-Wenn der Speck mager ist, mit Schmalz anbraten, sonst den Speck auslassen. Zwiebeln in einer anderen Pfanne Farbe nehmen
-lassen (ggf mit dem vom Speck ausgelassenen Fett).
+Wenn der Speck mager ist, mit Schmalz anbraten, sonst den Speck auslassen. Den Speck aus der Pfanne nehmen, dann die
+Zwiebeln im ausgelassenen Fett Farbe nehmen lassen.
 
-Den Teig ausrollen und in eine gefettete Form legen - am besten ist Tarteform, sonst eine Springform. Den Rand dünn
-lassen.
+Den Teig ausrollen und in eine gefettete Springform (oder Tarteform) legen. Den Rand dünn lassen.
 
-Eier mit Sahne verquirlen, Gewürze dazu. Alle anderen Zutaten dazu, und gut vermischen. Ggf. etwas abtropfen lassen,
-aber die Mischung muss nicht trocken sein. Dann in die Form füllen. Bei 200°C Ober-/Unterhitze ca. 30 Minuten backen.
-
-Gut zu Federweißem oder neuem Wein.
+Eier mit Sahne verquirlen, Gewürze dazu. Alle anderen Zutaten dazu, und gut vermischen. Etwas stehen lassen, damit die
+Flüssigkeit etwas einzieht. Mit dem Schaumlöffel in die Form füllen, damit die Füllung nicht zu feucht ist. Bei 200°C
+Ober-/Unterhitze ca. 30 Minuten backen.
