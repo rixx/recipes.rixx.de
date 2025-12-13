@@ -94,6 +94,8 @@ class Recipe:
 
 def load_recipes():
     for path in Path(".").rglob("**/*.md"):
+        if "venv" in str(path):
+            continue
         if path.parent.name != Path(".").name and path.parent.name != "scripts":
             try:
                 yield Recipe(path=path)

@@ -22,8 +22,8 @@ recipemd-extract 'url-of-recipe'  # chefkoch, seriouseats
 Einmalig alle nötigen Pakete installieren, dann einfach ``recipes build`` ausführen.
 
 ```
-pip install -Ue .
-recipes build
+[uv] pip install -Ue .
+[uv run] recipes build
 ```
 
 ## Bilder herunterladen
