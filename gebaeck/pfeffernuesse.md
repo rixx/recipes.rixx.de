@@ -2,7 +2,7 @@
 
 *kekse, weihnachten*
 
-**ca. 60 Stück**
+**ca. 130 Stück**
 
 ---
 
@@ -12,7 +12,7 @@
 - *170g* Honig
 - *1* Ei
 - *600g* Mehl
-- *2TL* schwarzer Pfeffer
+- *2TL* schwarzer Pfeffer (besonders geil: geschroteten Pfeffer frisch kleinmörsern)
 - *4TL* Lebkuchengewürz (oder Nelken, Muskat, Kardamom, Zimt, Muskatblüte, Anissamen)
 - *1-2TL* Backpulver
 - Zuckerguss oder Schokolade zum Dippen
@@ -25,6 +25,6 @@ In einer anderen Schüssel Mehl, Pfeffer, Lebkuchengewürz und Backpulver mische
 
 Ei in die flüssige Mischung geben, dann nach und nach die trockenen Zutaten unterkneten.
 
-Kleine Kugeln formen, bei 160°C Umluft 8-10 Minuten backen.
+Kleine Kugeln formen (sie gehen gut auf!), bei 160°C Umluft 8-10 Minuten backen.
 
 Nach dem Abkühlen in Zuckerguss oder Schokolade dippen.

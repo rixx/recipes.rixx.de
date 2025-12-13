@@ -2,14 +2,14 @@
 
 *kekse, weihnachten*
 
-**1 oder 2 Bleche / 25 oder 50 Stück (TODO: nachtragen)**
+**ca. 90 Stück**
 
 ---
 
 - *500 g* Mehl
 - *85 g* Zucker
 - *1 TL* Backpulver
-- *15 g* geriebener Ingwer
+- *25 g* geriebener Ingwer (nicht zu viel, gern mehr probieren)
 - *110 g* Butter
 - *250 g* dunkler Sirup
 - *60 ml* Milch
@@ -28,6 +28,6 @@ Mehl, Zucker, Backpulver, Ingwer und eine Prise Salz mischen.
 In einem Topf Butter und Sirup schmelzen, dann die Milch dazugeben. In die trockene Mischung geben und zu einem Teig
 kneten.
 
-Kleine Kugeln formen und optional mit Mandeln dekorieren.
+Kleine Kugeln formen (sie gehen gut auf!) und Mandeln gut reindrücken, damit sie nicht rausfallen.
 
 Bei 180 °C Umluft ca. 8 Minuten backen.
