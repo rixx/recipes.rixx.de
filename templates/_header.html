@@ -6,10 +6,10 @@
     <a href="/"{% if active == "plans" %} class="active"{% endif %}>Rezepte</a>
       <span class="sep"> · </span>
     <div id="search-container" role="search">
-      <input type="text" id="search" maxlength="255" placeholder="Search…">
+      <input type="text" id="search" maxlength="255" placeholder="Suchen…">
+      <div id="search-results" class="hidden"></div>
     </div>
       <span class="sep"> · </span>
     <a href="/pics"{% if active == "reports" %} class="active"{% endif %}>Fotos</a>
   </nav>
-
 </header>

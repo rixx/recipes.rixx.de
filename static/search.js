@@ -1,46 +1,79 @@
-let hasCarousels = false
+let recipes = []
+let searchInput = null
+let resultsContainer = null
+
+const loadRecipes = async () => {
+    const response = await fetch("/search.json")
+    recipes = await response.json()
+}
 
 const updateSearch = () => {
-    const search = document.querySelector("input#search").value
-
+    const search = searchInput.value
     const searchTerms = search
         .split(" ")
         .filter(d => d.length)
         .map(d => d.toLowerCase().trim())
 
     if (!searchTerms.length) {
-        document.querySelectorAll(".recipe-card").forEach(card => card.classList.remove("hidden"))
-    } else {
-        document.querySelectorAll(".recipe-card").forEach(card => {
-            const match = searchTerms.every(term => card.textContent.toLowerCase().includes(term))
-            if (match) {
-                card.classList.remove("hidden")
-            } else {
-                card.classList.add("hidden")
-            }
-        })
+        resultsContainer.classList.add("hidden")
+        resultsContainer.innerHTML = ""
+        return
     }
 
-    // Hide carousels if there are no results
-    if (hasCarousels) {
-        document.querySelectorAll(".recipe-carousel").forEach(carousel => {
-            const visibleCards = carousel.querySelectorAll(".recipe-card:not(.hidden)")
-            if (visibleCards.length === 0) {
-                carousel.classList.add("hidden")
-                carousel.previousElementSibling.classList.add("hidden")
-            } else {
-                carousel.classList.remove("hidden")
-                carousel.previousElementSibling.classList.remove("hidden")
-            }
-        })
+    const matches = recipes.filter(recipe => {
+        const searchText = `${recipe.title} ${recipe.tags.join(" ")} ${recipe.category}`.toLowerCase()
+        return searchTerms.every(term => searchText.includes(term))
+    }).slice(0, 8)
+
+    if (matches.length === 0) {
+        resultsContainer.innerHTML = '<div class="search-no-results">Keine Rezepte gefunden</div>'
+        resultsContainer.classList.remove("hidden")
+        return
+    }
+
+    resultsContainer.innerHTML = matches.map(recipe => {
+        const thumbnail = recipe.thumbnail
+            ? `<img src="${recipe.thumbnail}" alt="">`
+            : '<div class="search-placeholder"></div>'
+        const tags = recipe.tags.length > 0 ? `<span class="search-tags">${recipe.tags.join(", ")}</span>` : ""
+        return `<a href="/${recipe.id}/" class="search-result">
+            ${thumbnail}
+            <div class="search-result-text">
+                <span class="search-title">${recipe.title}</span>
+                ${tags}
+            </div>
+        </a>`
+    }).join("")
+
+    resultsContainer.classList.remove("hidden")
+}
+
+const handleClickOutside = (e) => {
+    if (!resultsContainer.contains(e.target) && e.target !== searchInput) {
+        resultsContainer.classList.add("hidden")
+    }
+}
+
+const handleFocus = () => {
+    if (searchInput.value.trim().length > 0) {
+        updateSearch()
     }
 }
 
 const init = () => {
-    document.querySelector("input#search").addEventListener("input", updateSearch)
-    hasCarousels = document.querySelectorAll(".recipe-carousel").length > 0
+    searchInput = document.querySelector("input#search")
+    resultsContainer = document.querySelector("#search-results")
+
+    if (!searchInput || !resultsContainer) return
+
+    loadRecipes()
+    searchInput.addEventListener("input", updateSearch)
+    searchInput.addEventListener("focus", handleFocus)
+    document.addEventListener("click", handleClickOutside)
 }
 
-if (document.readyState !== "loading") { init() } else {
-    document.addEventListener('DOMContentLoaded', prepareSearch, false)
+if (document.readyState !== "loading") {
+    init()
+} else {
+    document.addEventListener("DOMContentLoaded", init, false)
 }

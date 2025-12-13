@@ -372,11 +372,77 @@ small.tags {
 #gallery a:hover .image-title{
   display: block;
 }
+#search-container {
+  position: relative;
+}
 #search {
   padding: 6px;
   margin-top: 5px;
   border: solid #ccc 1px;
   border-radius: 4px;
+}
+#search-results {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  min-width: 320px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  z-index: 9999;
+  max-height: 400px;
+  overflow-y: auto;
+}
+.search-result {
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+  text-decoration: none;
+  border-bottom: 1px solid #eee;
+  font-weight: normal;
+  &:last-child {
+    border-bottom: none;
+  }
+  &:hover {
+    background-color: #f5f5f5;
+  }
+  img, .search-placeholder {
+    width: 48px;
+    height: 48px;
+    border-radius: 4px;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  .search-placeholder {
+    background-color: #ddd;
+  }
+}
+.search-result-text {
+  margin-left: 12px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.search-title {
+  color: #007171;
+  font-size: 16px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.search-tags {
+  color: #666;
+  font-size: 13px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.search-no-results {
+  padding: 16px;
+  text-align: center;
+  color: #666;
 }
 
 .recipe-list {

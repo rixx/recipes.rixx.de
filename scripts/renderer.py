@@ -169,4 +169,20 @@ def build_site(**kwargs):
 
     rsync(source="static/", destination="_html/static/")
 
+    print("🔍 Generating search index")
+    search_data = []
+    for recipe in all_recipes:
+        thumbnail = None
+        if recipe.image_paths:
+            thumbnail = f"/{recipe.id}/thumbnail_{recipe.image_paths[0].name}"
+        search_data.append({
+            "id": str(recipe.id),
+            "title": recipe.title,
+            "tags": list(recipe.data.tags),
+            "category": recipe.entry_type,
+            "thumbnail": thumbnail,
+        })
+    search_json_path = html_path / "search.json"
+    search_json_path.write_text(json.dumps(search_data, ensure_ascii=False))
+
     print("✨ Rendered HTML files to _html ✨")
