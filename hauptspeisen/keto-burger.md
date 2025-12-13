@@ -1,6 +1,6 @@
 # Keto Burger (Käse-Bun)
 
-*burger, keto, low-carb*
+*burger, keto, lowcarb*
 
 **2 Burger**
 

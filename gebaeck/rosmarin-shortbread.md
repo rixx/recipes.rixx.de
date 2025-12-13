@@ -1,6 +1,6 @@
 # Rosmarin-Shortbread
 
-*keks*
+*kekse*
 
 **40 Stück**
 

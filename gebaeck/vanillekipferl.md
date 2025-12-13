@@ -1,6 +1,6 @@
 # Vanillekipferl
 
-*kekse, weihnchten*
+*kekse, weihnachten*
 
 **80–100 Stück**
 
