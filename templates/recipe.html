@@ -20,11 +20,13 @@
 <article class="recipe">
     <h4 id="recipe-category">→ <a href="/c/{{ recipe.entry_type }}">{{ recipe.entry_type }}</a></h4>
     <h1 id="recipe-title">{{ recipe.title }}</h1>
-    <small class="tags">
+    {% if recipe.data.tags %}
+    <div class="tags">
         {% for tag in recipe.data.tags %}
         <a href="/t/{{ tag }}">{{ tag }}</a>
         {% endfor %}
-    </small>
+    </div>
+    {% endif %}
     {% if recipe.image_paths %}
     <hr>
         <div id="recipe-gallery">

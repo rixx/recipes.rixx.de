@@ -265,11 +265,10 @@ header a {
   text-align: right;
   white-space: nowrap;
 }
-small.tags a {
+.recipe-card small.tags a {
   color: white;
 }
-
-small.tags {
+.recipe-card small.tags {
   margin-bottom: 12px;
   position: absolute;
   top: 12px;
@@ -280,6 +279,25 @@ small.tags {
 }
 .recipe-card:hover small.tags {
   display: block;
+}
+
+article.recipe .tags {
+  display: block;
+  margin: 8px 0 4px 0;
+}
+article.recipe .tags a {
+  display: inline-block;
+  background: #007171;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 14px;
+  margin-right: 6px;
+  margin-bottom: 4px;
+  text-decoration: none;
+  &:hover {
+    background: #005555;
+  }
 }
 
 .recipe-carousel {
