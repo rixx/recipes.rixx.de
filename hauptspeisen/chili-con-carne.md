@@ -37,7 +37,7 @@ Tomaten zum ablöschen, dann mit Chilischoten 20-30 Minuten kochen
 
 Paprika dazu und 10 Minuten kochen
 
-Bohnen, Mais, Erbsen dazu und 10 Minuten kochen, ggf Brühe dazu für Konsistenz
+Bohnen und Mais dazu und 10 Minuten kochen, ggf Brühe dazu für Konsistenz
 
 abschmecken, ziehen lassen für mehr geil
 
