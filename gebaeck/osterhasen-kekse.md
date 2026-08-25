@@ -16,7 +16,7 @@ Zitronenmürbeteig
 - Salz
 - Zitronenschale
 - *10 ml* Zitronensaft
-- Deko: Lebensmittelfarbe, Schokolade
+- Deko: Lebensmittelfarbe, Schokolade, Giotto
 
 ---
 
@@ -27,3 +27,5 @@ Dünn ausrollen und ausstechen (oder -schneiden). Bei 180°C (160°C Umluft) etw
 
 Zuckerguss aus Zitronensaft, Wasser und *100 g* Puderzucker anrühren. Einen Teil einfärben. Die ausgekühlten Kekse
 dekorieren. Augen z.B. aus geschmolzener Schokolade auftupfen.
+
+Deko-Option: Teig zu Hasen in eine Schleife drehen, als Schwanz einen Giotto reinkleben.

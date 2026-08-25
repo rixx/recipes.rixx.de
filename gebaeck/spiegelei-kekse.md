@@ -4,7 +4,7 @@ Aus Zitronen-Mürbeteig.
 
 *kekse, ostern*
 
-**35 Doppelkekse**
+**30 Doppelkekse**
 
 ---
 
@@ -23,7 +23,7 @@ Butter und Zucker cremig rühren. Das Ei dazu und weiterrühren. Abgeriebene Sch
 dazu. Mehl nach und nach hinzugeben, bis der Teig trocken ist. Für eine Stunde kaltstellen.
 
 Ausrollen und ausstechen. Wer keine Eier-Form hat, kann meinem Beispiel folgen und einfach einen Kreis zurechtbiegen.
-(Kreisersatz bietet ja jedes Glas).
+(Kreisersatz bietet ja jedes Glas). Den Kreis erst auf dem Blech ausstechen, sonst verzieht er sich mies.
 
 Bei 180°C Umluft etwa 5 (??) Minuten backen, bis die Ränder leicht gebräunt sind.
 
